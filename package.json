@@ -14,5 +14,7 @@
     "vue-cli",
     "proxy"
   ],
-  "dependencies": {}
+  "devDependencies": {
+    "@vue/cli": "^3.0.0-rc.11"
+  }
 }
